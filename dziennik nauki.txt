@@ -1,0 +1,11 @@
+***CO ZROBILEM I KIEDY
+  11-12.06.2020 - wypisane wszystkie zalozenia i wybor technologii (python, django, mySQL)
+  13.06.2020 - stworzenie projektu i tego repozytorium
+
+
+***CO ROBIE TERAZ I JAK
+  ogladam BEZ PRZEWIJANIA ten tutorial: https://www.youtube.com/watch?v=F5mRW0jo-U4&t=1208s
+
+
+***CO JEST NASTEPNE W KOLEJCE?
+  poprawne i bezpieczne logowanie
