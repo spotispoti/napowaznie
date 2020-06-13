@@ -6,8 +6,21 @@
 ***CO ROBIE TERAZ I JAK
   ogladam BEZ PRZEWIJANIA ten tutorial: https://www.youtube.com/watch?v=F5mRW0jo-U4&t=1208s
   
+  
+  {
+  od zera (trzeba bylo sie wspomagac dokumentacja django, bo typ zbyt sie rozwodzi w pierdoleniu i mialem juz django zainstalowane)
+  00:00
   (AB 21:20 -
+
+  27:53)
+  21:58
+  } 0.5h
 
 
 ***CO JEST NASTEPNE W KOLEJCE?
   poprawne i bezpieczne logowanie
+  
+  
+***DZIENNA RUTYNA
+  wpisac nieznane slowka do juz istniejacej apki
+  5 minut nauki nowych slowek
