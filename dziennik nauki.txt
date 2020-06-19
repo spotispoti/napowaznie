@@ -1,39 +1,28 @@
 ***CO ZROBILEM I KIEDY
   11-12.06.2020 - wypisane wszystkie zalozenia i wybor technologii (python, django, mySQL)
   13.06.2020 - stworzenie projektu i tego repozytorium
+  
 
 
 ***CO ROBIE TERAZ I JAK
-  ogladam BEZ PRZEWIJANIA ten tutorial: https://www.youtube.com/watch?v=F5mRW0jo-U4&t=1208s
-  
-  
-  {
-  od zera (trzeba bylo sie wspomagac dokumentacja django, bo typ zbyt sie rozwodzi w pierdoleniu i mialem juz django zainstalowane)
-  00:00
-  (AB 21:20 -
+  Formularz rejestracji
 
-  27:53)
-  21:58
-  } 0.5h
-    {
-  
-  (AB 21:55 -
 
-  27:53)
-  21:58
-  } 0.5h
+
+  ###ogladam BEZ PRZEWIJANIA ten tutorial: https://www.youtube.com/watch?v=F5mRW0jo-U4&t=1208s
+    Anulowane - bez sensu jest zajmowac sie czyms i rozumiec cos czego nie potrzebuje w danej chwili - za wolny progres.
   
 ***HIGH PRIORITY
-  czemu apki nie tworza sie w src/
-  stworzyc baze mySQL i wpisac ja do settings.py
-  dobrze wygladajacy kod https://www.python.org/dev/peps/pep-0008/
+  ###czemu apki nie tworza sie w src/                 ###mozna tam stworzyc, ale po co?
+  ###stworzyc baze mySQL i wpisac ja do settings.py   ###na razie sqlite, potem mongoDB
+  
   
 
 
 ***CO JEST NASTEPNE W KOLEJCE?
-  poprawne i bezpieczne logowanie
+  dobrze wygladajacy kod https://www.python.org/dev/peps/pep-0008/
+  bazy danych
   
   
 ***DZIENNA RUTYNA
-  wpisac nieznane slowka do juz istniejacej apki
-  5 minut nauki nowych slowek
+  na razie po prostu robic COKOLWIEK codziennie
